@@ -1,0 +1,25 @@
+:root {
+ --cor-d: #7289da;
+ --cor-1: #111;
+ --cor-m: rgb(230, 44, 44);
+ --cor-p: black;
+ --cor-b: white;
+}
+.cor-p {
+ color: #000;
+}
+.cor-d {
+ color: #7289da;
+}
+.cor-b {
+ color: white;
+}
+.cor-c {
+ color: #b2b2b2;
+}
+.cor-m {
+ color: rgb(230, 44, 44);
+}
+.cor-1 {
+ color: #111;
+}

@@ -1,0 +1,17 @@
+.roboto-400 {
+ font-family: 'Roboto', sans-serif;
+ font-size: 16px;
+ font-weight: 400;
+}
+.roboto-600 {
+ font-size: 50px;
+ line-height: 1.125;
+ font-family: 'Roboto', sans-serif;
+ font-weight: 600;
+}
+.ibm-500 {
+ font-size: 18px;
+ line-height: 1.5;
+ font-family: 'IBM Plex Mono', sans-serif;
+ font-weight: 500;
+}
