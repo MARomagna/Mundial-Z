@@ -64,3 +64,8 @@
   font-size: 10px;
  }
 }
+@media (max-width: 600px) {
+ .header {
+  justify-content: center;
+ }
+}
