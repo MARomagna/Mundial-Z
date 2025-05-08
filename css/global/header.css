@@ -9,6 +9,9 @@
  align-items: center;
  padding: 10px;
 }
+.header img {
+ border: 1px solid #fff;
+}
 .header-menu {
  display: flex;
  flex-wrap: wrap;
