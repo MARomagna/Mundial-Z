@@ -1,4 +1,5 @@
 .servidores-lista{
+    background: linear-gradient(var(--cor-b), var(--cor-1));
     padding-top: 60px;
     padding-bottom: 120px;
 }
