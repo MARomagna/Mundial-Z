@@ -35,13 +35,14 @@ img {
  border-radius: 6px;
 }
 @media (max-width: 950px) {
- .botao {
+ .botao,
+ .botao-d {
   padding: 12px 16px;
   font-size: 16px;
  }
 }
 @media (max-width: 500px) {
- .botao {
+ .botao, .botao-d {
   padding: 10px 12px;
   font-size: 12px;
  }

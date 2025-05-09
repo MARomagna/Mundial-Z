@@ -24,11 +24,6 @@
 .introducao p {
  margin-bottom: 40px;
 }
-@media (max-width: 1120px) {
- .introducao p {
-  font-size: 16px;
- }
-}
 @media (max-width: 950px) {
  .introducao-bg {
   background: var(--cor-1);
@@ -43,23 +38,11 @@
   padding-bottom: 0px;
  }
  .introducao h1 {
-  font-size: 48px;
   margin-bottom: 16px;
   padding-top: 0px;
- }
- .introducao p {
-  font-size: 14px;
  }
  .introducao img {
   height: 300px;
   width: 100%;
- }
-}
-@media (max-width: 750px) {
- .introducao h1 {
-  font-size: 32px;
- }
- .introducao p {
-  font-size: 12px;
  }
 }

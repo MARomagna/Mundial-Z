@@ -4,22 +4,24 @@
  --cor-m: rgb(230, 44, 44);
  --cor-p: black;
  --cor-b: white;
+ --cor-c: #b2b2b2;
+
 }
 .cor-p {
- color: #000;
+ color: var(--cor-1);
 }
 .cor-d {
- color: #7289da;
+ color: var(--cor-d);
 }
 .cor-b {
- color: white;
+ color: var(--cor-b);
 }
 .cor-c {
- color: #b2b2b2;
+ color: var(--cor-c);
 }
 .cor-m {
- color: rgb(230, 44, 44);
+ color: var(--cor-m);
 }
 .cor-1 {
- color: #111;
+ color: var(--cor-1);
 }
